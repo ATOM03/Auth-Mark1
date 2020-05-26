@@ -6,7 +6,7 @@ Hello Welcome to my github profile.I have create a simple login authentication p
 
 In the project directory
 
-#### Go to server folder and run comman 
+#### Go to server folder and run command
 
 ### `npm run start`
 
