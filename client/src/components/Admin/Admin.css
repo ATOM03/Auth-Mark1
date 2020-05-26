@@ -1,0 +1,22 @@
+.admin-body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.logged-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2980b9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 7vw;
+  height: 6vh;
+}
+.logged-a {
+  text-decoration: none;
+}

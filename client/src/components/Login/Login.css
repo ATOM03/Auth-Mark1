@@ -1,0 +1,37 @@
+.login-body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f8f8f8;
+}
+.signip-body {
+  width: 60vw;
+  height: 70vh;
+  background: white;
+  display: flex;
+  border-radius: 30px;
+  box-shadow: 10px 10px 8px #888888;
+}
+.Signin {
+  width: 30vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.signin-header {
+  font-weight: bolder;
+  margin-top: 45%;
+}
+.login-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2980b9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 7vw;
+  height: 5vh;
+}
